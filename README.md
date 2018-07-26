@@ -1,3 +1,3 @@
 # Štěpán Pešout
 
-- Check out [my profile](https://github.com/pesout)
+- [My GitHub profile](https://github.com/pesout)
